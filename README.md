@@ -9,7 +9,6 @@ other loaded packages included: sys, re, csv, timeit, random, ast <br />
 <br />
 <br />
 Citations: <br />
-<br />
 GC content: <br />
   1.Tessa G. Montague, José M. Cruz, James A. Gagnon, George M. Church, Eivind Valen; CHOPCHOP: a CRISPR/Cas9 and TALEN web tool for genome    editing. Nucleic Acids Res 2014; 42 (W1): W401-W407. doi: 10.1093/nar/gku410 <br />
   2.Wang, Tim et al. “Genetic Screens in Human Cells Using the CRISPR/Cas9 System.” Science (New York, N.Y.) 343.6166 (2014): 80–84. PMC.       Web. 5 July 2017. <br />
