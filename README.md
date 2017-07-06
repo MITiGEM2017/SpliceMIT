@@ -1,1 +1,1 @@
-# RNA-splicing_gRNA-generator
+# MIT iGEM 2017 gRNA Generator
