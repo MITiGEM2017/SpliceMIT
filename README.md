@@ -1,6 +1,7 @@
 # MIT iGEM 2017 gRNA Generator
 MIT iGEM 2017 Modelling Group Project <br />
 Model and analyze to produce the most effective gRNA sequence in the CRISPR-(d)Cas13a system <br />
+It could also be used in RNA splicing experiments regardless of the RNA binding protein type. (e.g. MS2, L7Ae,RCas9, etc) <br />
 Language: Python <br />
 Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
 other loaded packages included: sys, re, csv, timeit, random, ast <br />
@@ -19,3 +20,6 @@ RBPmap: <br />
 <br />
 Nupack: <br />
   1.J. N. Zadeh, C. D. Steenberg, J. S. Bois, B. R. Wolfe, M. B. Pierce, A. R. Khan, R. M. Dirks, N. A. Pierce. NUPACK: analysis and design   of nucleic acid systems. J Comput Chem, 32:170–173, 2011. <br /> 
+<br />
+RNA binding affinity:<br />
+Citations are included in the file: RNA_binding_affinity_data.csv <br />
