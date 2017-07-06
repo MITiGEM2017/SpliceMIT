@@ -1,7 +1,7 @@
 # MIT iGEM 2017 gRNA Generator
 MIT iGEM 2017 Modelling Group Project <br />
 Model and analyze to produce the most effective gRNA sequence in the CRISPR-(d)Cas13a system <br />
-It could also be used in RNA splicing experiments regardless of the RNA binding protein type. (e.g. MS2, L7Ae,RCas9, etc) <br />
+  It could also be used in RNA splicing experiments regardless of the RNA binding protein type. (e.g. MS2, L7Ae,RCas9, etc) <br />
 Language: Python <br />
 Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
 other loaded packages included: sys, re, csv, timeit, random, ast <br />
