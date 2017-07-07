@@ -59,8 +59,9 @@
 >![codecogseqn 10](https://user-images.githubusercontent.com/29665985/27974788-797d4fa4-632d-11e7-8675-2064888dd0f0.gif) <br />
 >![codecogseqn 11](https://user-images.githubusercontent.com/29665985/27974867-cd033328-632d-11e7-88f2-4202404c9285.gif) <br />
 > P is the weighted probability score <br />
+> c is the root limitation factor constant <br />
 > m-p is the pre-set root constant <br />
-
+<br />
 
 
 
