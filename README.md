@@ -51,6 +51,11 @@
 > [RBP] is the concentration of an RNA-binding protein(set to default) <br />
 <br />
 
+#### *For Secondary Structure Probability Score: *
+>![codecogseqn 12](https://user-images.githubusercontent.com/29665985/27980540-bc5257aa-634d-11e7-94c9-21684a58b5c2.gif) <br />
+> Pn is the probability of not having stem-loop or hairpin structure for a crRNA sequence <br />
+> Pn-base is the probability of a base not binding to any other bases on the crRNA <br />
+
 #### *crRNA Secondary Structure Score Algorithm:*
 >![codecogseqn 5](https://user-images.githubusercontent.com/29665985/27974015-22e0a7f2-632a-11e7-87c1-024d5cd66d6d.gif) <br />
 >![codecogseqn 6](https://user-images.githubusercontent.com/29665985/27974172-d6fd853e-632a-11e7-9f94-3589de98c04e.gif) <br />
