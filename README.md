@@ -3,7 +3,7 @@ SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in 
 example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
 Language: Python <br />
 Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
-other loaded packages included: sys, re, csv, timeit, random, ast <br />
+<br />
 
 File explanation: <br />
 1.	Nupack_data.csv : <br />sample data for secondary structure of the crRNA. The results are obtained from Nupack developed by Caltech.
