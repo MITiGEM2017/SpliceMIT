@@ -34,7 +34,6 @@
 <br />
 
 ### Citations: <br />
-<br />
 
 #### GC content: <br />
   1.Tessa G. Montague, José M. Cruz, James A. Gagnon, George M. Church, Eivind Valen; CHOPCHOP: a CRISPR/Cas9 and TALEN web tool for genome editing. Nucleic Acids Res 2014; 42 (W1): W401-W407. doi: 10.1093/nar/gku410 <br />
