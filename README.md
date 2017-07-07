@@ -16,7 +16,7 @@
 
 #### *How to use SpliceMIT*:<br />
 >1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
->2.	Open model.py and read all annotations before running.<br />
+>2.	Open model.py and **read ALL annotations** before running.<br />
 >3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
 >4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
 >5.	You will see the top 10 crRNA sequences<br />
@@ -104,6 +104,6 @@
 >Citations are included in the file: RNA_binding_affinity_data.csv <br />
 
 <br />
-Coded by: Qianchang Dennis Wang <br />
+Codes and algorithms by: Qianchang Dennis Wang <br />
 Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20' <br />
 Also speical thanks to MIT Burge Lab and Harvard ChopChop developers.
