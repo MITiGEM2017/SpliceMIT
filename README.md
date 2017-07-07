@@ -5,6 +5,15 @@ Language: Python <br />
 Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
 other loaded packages included: sys, re, csv, timeit, random, ast <br />
 
+File explanation: <br />
+1.	Nupack_data.csv : <br />sample data for secondary structure of the crRNA. The results are obtained from Nupack developed by Caltech.
+2.	Off_target_data.csv: <br />sample data for off-target in a human cell (analyze using the homo sapiens cDNA sequence)
+3.	Pre_crRNA_structure_Nupack_data.csv: <br />sample data for secondary structure of the pre-crRNA, also obtained from Nupack.
+4.	RNA_binding_affinity_data.csv: <br />containing the dissociation constant for over 90 RNA binding proteins found in Human and Drosophila. (THIS IS NOT A SAMPLE FILE)
+5.	human-cDNA-part1.rar & human-cDNA-part2: <br />compressed text file of human cDNA sequence. The size is approximately 300 million bases. The original FASTA file is from the UCSC genome browser.
+   
+
+
 <br />
 <br />
 Citations: <br />
