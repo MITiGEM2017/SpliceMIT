@@ -12,14 +12,15 @@ File explanation: <br />
 4.	RNA_binding_affinity_data.csv: <br />containing the dissociation constant for over 90 RNA binding proteins found in Human and Drosophila. (THIS IS NOT A SAMPLE FILE)
 5.	human-cDNA-part1.rar & human-cDNA-part2: <br />compressed text file of human cDNA sequence. The size is approximately 300 million bases. The original FASTA file is from the UCSC genome browser.<br />
 <br />   
-**How to use SpliceMIT**:<br />
+<br />
+How to use SpliceMIT:<br />
 1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
 2.	Open model.py and read all annotations before running.<br />
 3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
 4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
 5.	You will see the top 10 crRNA sequences<br />
 <br />
-Variables you **PROBABLY** want to change:<br />
+Variables you *PROBABLY* want to change:<br />
 1.	gRNA_length <br />
 2.	tracrRNA_seq <br />
 3.	upstream_exon <br />
