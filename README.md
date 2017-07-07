@@ -1,8 +1,8 @@
 # SpliceMIT - Splice Modelling (Intronic) Technology
-SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in a RNA splicing setting.<br />
-example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
-Language: Python <br />
-Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
+### SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in a RNA splicing setting.<br />
+### example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
+### Language: Python <br />
+### Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
 <br />
 
 File explanation: <br />
