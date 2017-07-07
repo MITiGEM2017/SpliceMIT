@@ -29,6 +29,10 @@
 4.	downstream_exon <br />
 5.	direct_repeat_sequence <br />
 6.	(All weight values) <br />
+<br />
+
+#### *RBP Interference Score Algorithm:*
+![codecogseqn 1](https://user-images.githubusercontent.com/29665985/27973016-5f865ab6-6326-11e7-8d7c-56a4e1bdab0d.gif)
 
 
 <br />
