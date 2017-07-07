@@ -15,20 +15,28 @@
 <br />   
 
 #### *How to use SpliceMIT*:<br />
-1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
-2.	Open model.py and read all annotations before running.<br />
-3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
-4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
-5.	You will see the top 10 crRNA sequences<br />
+>1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
+>2.	Open model.py and read all annotations before running.<br />
+>3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
+>4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
+>5.	You will see the top 10 crRNA sequences<br />
 <br />
 
 #### *Variables you PROBABLY want to change*:<br />
-1.	gRNA_length <br />
-2.	tracrRNA_seq <br />
-3.	upstream_exon <br />
-4.	downstream_exon <br />
-5.	direct_repeat_sequence <br />
-6.	(All weight values) <br />
+>1.	gRNA_length <br />
+>2.	tracrRNA_seq <br />
+>3.	upstream_exon <br />
+>4.	downstream_exon <br />
+>5.	direct_repeat_sequence <br />
+>6.	(All weight values) <br />
+<br />
+
+#### *Factors that taken into account:* <br />
+> 1. Off-target binding of gRNA <br />
+> 2. GC content of the crRNA sequence <br />
+> 3. Secondary structure of the crRNA structure <br />
+> 4. Secondary structure of the pre-gRNA structure <br />
+> 5. Competition of different RNA-binding proteins at the site <br />
 <br />
 
 #### *RBP Interference Score Algorithm:*
