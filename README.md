@@ -34,8 +34,13 @@
 #### *RBP Interference Score Algorithm:*
 >![codecogseqn 1](https://user-images.githubusercontent.com/29665985/27973016-5f865ab6-6326-11e7-8d7c-56a4e1bdab0d.gif) <br />
 >![codecogseqn 3](https://user-images.githubusercontent.com/29665985/27973208-3d452120-6327-11e7-825c-c63ecd6dc7d7.gif) <br />
->![codecogseqn 4](https://user-images.githubusercontent.com/29665985/27973317-a481661e-6327-11e7-81e4-85f5d02110d5.gif)
-
+>![codecogseqn 4](https://user-images.githubusercontent.com/29665985/27973317-a481661e-6327-11e7-81e4-85f5d02110d5.gif) <br />
+> a is the weight value; <br />
+> k is the weight-power constant; <br /> 
+> Kd is the dissociation constant for the RBP;<br /> 
+> Lb is the length of binding; <br />
+> Lm is the length of RBP-binding motif; <br />
+> [RBP] is the concentration of an RNA-binding protein(set to default) <br />
 
 
 
