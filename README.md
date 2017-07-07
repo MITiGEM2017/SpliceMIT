@@ -51,6 +51,17 @@
 > Kw is the weight power <br />
 > P-target is the target maximum probability score <br />
 > P-n-max is the maximum value of all unweighted proabilities <br />
+<br />
+
+#### *Pre-gRNA Secondary Structure Score Algorithm:*
+>![codecogseqn 8](https://user-images.githubusercontent.com/29665985/27974631-d52888b0-632c-11e7-8451-7e7b6113c25e.gif) <br />
+>![codecogseqn 9](https://user-images.githubusercontent.com/29665985/27974680-02468284-632d-11e7-9d94-8143f5e1edf3.gif) <br />
+>![codecogseqn 10](https://user-images.githubusercontent.com/29665985/27974788-797d4fa4-632d-11e7-8675-2064888dd0f0.gif) <br />
+>![codecogseqn 11](https://user-images.githubusercontent.com/29665985/27974867-cd033328-632d-11e7-88f2-4202404c9285.gif) <br />
+> P is the weighted probability score <br />
+> m-p is the pre-set root constant <br />
+
+
 
 
 
