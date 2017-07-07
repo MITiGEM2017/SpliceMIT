@@ -20,6 +20,7 @@ How to use SpliceMIT:<br />
 4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
 5.	You will see the top 10 crRNA sequences<br />
 <br />
+
 Variables you *PROBABLY* want to change:<br />
 1.	gRNA_length <br />
 2.	tracrRNA_seq <br />
