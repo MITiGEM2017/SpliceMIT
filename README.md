@@ -37,6 +37,7 @@
 > 3. Secondary structure of the crRNA structure <br />
 > 4. Secondary structure of the pre-gRNA structure <br />
 > 5. Competition of different RNA-binding proteins at the site <br />
+> 6. Location of ISE and ISS of the given intron is not included but could be easily implemented by adding a list and apply bonus/penalty scores. <br />
 <br />
 
 #### *RBP Interference Score Algorithm:*
