@@ -96,5 +96,7 @@
 #### RNA binding affinity:<br />
 >Citations are included in the file: RNA_binding_affinity_data.csv <br />
 
+<br />
 Coded by: Qianchang Dennis Wang <br />
-Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20'
+Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20' <br />
+Also speical thanks to MIT Burge Lab and Harvard ChopChop developers.
