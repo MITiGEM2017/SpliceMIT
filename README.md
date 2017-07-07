@@ -33,6 +33,10 @@
 
 #### *RBP Interference Score Algorithm:*
 ![codecogseqn 1](https://user-images.githubusercontent.com/29665985/27973016-5f865ab6-6326-11e7-8d7c-56a4e1bdab0d.gif)
+![codecogseqn 3](https://user-images.githubusercontent.com/29665985/27973208-3d452120-6327-11e7-825c-c63ecd6dc7d7.gif)
+
+
+
 
 
 <br />
