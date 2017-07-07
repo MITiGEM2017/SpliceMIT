@@ -41,7 +41,10 @@
 > Lb is the length of binding; <br />
 > Lm is the length of RBP-binding motif; <br />
 > [RBP] is the concentration of an RNA-binding protein(set to default) <br />
+<br />
 
+#### *crRNA Secondary Structure Score Algorithm:*
+>![codecogseqn 5](https://user-images.githubusercontent.com/29665985/27974015-22e0a7f2-632a-11e7-87c1-024d5cd66d6d.gif) <br />
 
 
 
