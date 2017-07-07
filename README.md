@@ -45,6 +45,12 @@
 
 #### *crRNA Secondary Structure Score Algorithm:*
 >![codecogseqn 5](https://user-images.githubusercontent.com/29665985/27974015-22e0a7f2-632a-11e7-87c1-024d5cd66d6d.gif) <br />
+>![codecogseqn 6](https://user-images.githubusercontent.com/29665985/27974172-d6fd853e-632a-11e7-9f94-3589de98c04e.gif) <br />
+>![codecogseqn 7](https://user-images.githubusercontent.com/29665985/27974339-96679c8e-632b-11e7-8ed9-605a06209def.gif) <br />
+> P is the weighted probability score <br />
+> Kw is the weight power <br />
+> P-target is the target maximum probability score <br />
+> P-n-max is the maximum value of all unweighted proabilities <br />
 
 
 
