@@ -12,6 +12,7 @@ File explanation: <br />
 4.	RNA_binding_affinity_data.csv: <br />containing the dissociation constant for over 90 RNA binding proteins found in Human and Drosophila. (THIS IS NOT A SAMPLE FILE)
 5.	human-cDNA-part1.rar & human-cDNA-part2: <br />compressed text file of human cDNA sequence. The size is approximately 300 million bases. The original FASTA file is from the UCSC genome browser.<br />
 <br />   
+
 How to use SpliceMIT:<br />
 1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
 2.	Open model.py and read all annotations before running.<br />
