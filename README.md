@@ -6,7 +6,7 @@
 ### Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
 <br />
 
-#### **Read below and ALL ANNOTATIONS in model.py before running!!!**
+### **Read below and ALL ANNOTATIONS in model.py before running!!!**
 
 #### *File explanation*: <br />
 >1.	Nupack_data.csv : <br />sample data for secondary structure of the crRNA. The results are obtained from Nupack developed by Caltech.
