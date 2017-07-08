@@ -3,7 +3,7 @@
 ### SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in a RNA splicing setting.<br />
 ### example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
 ### Language: Python <br />
-### Package required: Selenium, urllib, bs4(beautiful soup), tqdm <br />
+### Package required: Selenium, tqdm <br />
 <br />
 
 ### **Read below and ALL ANNOTATIONS in model.py before running!!!**
