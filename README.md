@@ -109,4 +109,4 @@
 <br />
 Codes and algorithms by: Qianchang Dennis Wang <br />
 Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20' <br />
-Also speical thanks to MIT Burge Lab and Harvard ChopChop developers from Schier Lab.
+Also speical thanks to MIT Burge Lab, Harvard Schier Lab and Valen Lab at University of Bergen.
