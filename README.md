@@ -44,7 +44,7 @@
 <br />
 
 #### *RBP Interference Score Algorithm:*
->![codecogseqn 13](https://user-images.githubusercontent.com/29665985/27987253-717f50ee-63d8-11e7-8935-426d2922c121.gif) <br />
+>![codecogseqn 14](https://user-images.githubusercontent.com/29665985/27987285-1667b48e-63d9-11e7-9d3b-7e37eabf201a.gif) <br />
 >![codecogseqn 3](https://user-images.githubusercontent.com/29665985/27973208-3d452120-6327-11e7-825c-c63ecd6dc7d7.gif) <br />
 >![codecogseqn 4](https://user-images.githubusercontent.com/29665985/27973317-a481661e-6327-11e7-81e4-85f5d02110d5.gif) <br />
 > a is the weight value; <br />
