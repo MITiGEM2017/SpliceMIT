@@ -22,6 +22,7 @@
 >3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
 >4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
 >5.	You will see the top 10 crRNA sequences<br />
+>6. You may want to use PhantomSJ as a virtual webdriver application if you are running the program directly on your work computer/laptop. Please go check out http://phantomjs.org/ <br />
 <br />
 
 #### *Variables you PROBABLY want to change*:<br />
