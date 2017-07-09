@@ -108,5 +108,5 @@
 
 <br />
 Codes and algorithms by: Qianchang Dennis Wang <br />
-Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20' <br />
+Cooperated with: Ben Kaplan 19', Molly Stephens 18', Adil Yusuf 20', Ronit Langer 20', and our amazing leader - Brian Teague <br />
 Also speical thanks to MIT Burge Lab, Harvard Schier Lab and Valen Lab at University of Bergen.
