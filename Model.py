@@ -100,10 +100,10 @@ def diff_letters(a,b):
     return sum ( a[i] != b[i] for i in range(len(a)) )
 
 
-def off_target_mismatch(mRNA_seq,gRNA_seq):
+def off_target_mismatch(mRNA,gRNA_seq):
     crRNA_seq = gRNA_seq[-gRNA_length:]
     print(crRNA_seq)
-
+    
     count = 0
     difference_list = []
     RNA_complement = ""
@@ -112,19 +112,19 @@ def off_target_mismatch(mRNA_seq,gRNA_seq):
         index = "UAGC".find(base)
         complement = "ATCG"[index]
         RNA_complement += complement
-    print(RNA_complement)
+    
+    for mRNA_seq in mRNA:
+        start_pos = 0
+        while start_pos < (len(mRNA_seq)-len(crRNA_seq)+1):
+            DNA_seq = mRNA_seq[start_pos:(start_pos+len(crRNA_seq))]
+            diff = diff_letters(RNA_complement, DNA_seq)
+            if diff <= off_target_mismatch_threshold:
+                count +=1
+                difference_list.append(diff)
+                start_pos += 1
 
-    start_pos = 0
-    while start_pos < (len(mRNA_seq)-len(crRNA_seq)+1):
-        DNA_seq = mRNA_seq[start_pos:(start_pos+len(crRNA_seq))]
-        diff = diff_letters(RNA_complement, DNA_seq)
-        if diff <= off_target_mismatch_threshold:
-            count +=1
-            difference_list.append(diff)
-            start_pos += 1
-
-        else:
-            start_pos += (diff-off_target_mismatch_threshold)
+            else:
+                start_pos += (diff-off_target_mismatch_threshold)
 
     return count, difference_list
 
@@ -599,16 +599,20 @@ for gRNA in tqdm(gRNA_seq_list):
 # ------------------------------Separation Line -----------------------------
 # Off target searching begins
 """
-file = open("human-cDNA.txt","r")
-cDNA_seq = file.readline()
+#file = open("human-cDNA.txt","r")
+#cDNA_seq = file.readline()
+
+cDNA_data_list = []
+with open("human-cDNA.csv", "r") as nfile:
+    nreader = csv.reader(nfile)
+    for row in tqdm(nreader):
+        cDNA_data_list.append(row)
+
 off_target_data_output = []
 
 for gRNA in tqdm(gRNA_seq_list):
-    start = timer()
-    num_mismatch, mismatch_list = off_target_mismatch(cDNA_seq,gRNA)
+    num_mismatch, mismatch_list = off_target_mismatch(cDNA_data_list,gRNA)
     off_target_gRNA = [num_mismatch, mismatch_list]
-    end = timer()
-    #print("In total:    ", int((end-start)/60),"minute(s) and",(end-start)%60,"second(s) for the gRNA sequence:", gRNA)
     off_target_data_output.append(off_target_gRNA)
 
 with open('Off_target_data.csv','w',newline='') as fp:
