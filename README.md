@@ -13,16 +13,18 @@
 >2.	Off_target_data.csv: <br />sample data for off-target in a human cell (analyze using the homo sapiens cDNA sequence)
 >3.	Pre_crRNA_structure_Nupack_data.csv: <br />sample data for secondary structure of the pre-crRNA, also obtained from Nupack.
 >4.	RNA_binding_affinity_data.csv: <br />containing the dissociation constant for over 90 RNA binding proteins found in Human and Mouse. (THIS IS NOT A SAMPLE FILE)
->5.	human-cDNA-part1.rar & human-cDNA-part2: <br />compressed text file of human cDNA sequence. The size is approximately 300 million bases. The original FASTA file is from the UCSC genome browser.<br />
+>5.	human-part1.rar & human-part2: <br />compressed FASTA file of human cDNA sequence(txt format). The size is approximately 300 million bases. The original FASTA file is from the UCSC genome browser.<br />
 <br />   
 
 #### *How to use SpliceMIT*:<br />
->1.	Download model.py and RNA_binding_affinity_data.csv (same directory)<br />
->2.	Open model.py and **read ALL annotations** before running.<br />
->3.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
->4.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
->5.	You will see the top 10 crRNA sequences<br />
->6. You may want to use PhantomSJ as a virtual webdriver application if you are running the program directly on your work computer/laptop. Please go check out http://phantomjs.org/ <br />
+>1.	Download model.py; FASTA.py; RNA_binding_affinity_data.csv and both human-part1.txt.rar and human-part2.txt.rar (in the same directory)<br />
+>2. Unzip the rar files and combine them into one single txt file. Name it as "human.txt" <br />
+>3. Run the FASTA.py in order to transfer fasta format into simple "ATCG". <br />
+>4.	Open model.py and **read ALL annotations** before running.<br />
+>5.	Modify the variables in the “Global Constant” region. It should be right below all the functions<br />
+>6.	Run the program and wait for the result. (The sample running is on a 850nt intron – 708 gRNAs, and took approximately 36 hours in total)<br />
+>7.	You will see the top 10 crRNA sequences<br />
+>8. You may want to use PhantomJS as a virtual webdriver application if you are running the program directly on your work computer/laptop. Please go check out http://phantomjs.org/ <br />
 <br />
 
 #### *Variables you PROBABLY want to change*:<br />
