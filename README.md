@@ -57,34 +57,6 @@
 > [RBP] is the concentration of an RNA-binding protein(set to default) <br />
 <br />
 
-#### *For Secondary Structure Probability Score*:
->![codecogseqn 12](https://user-images.githubusercontent.com/29665985/27980540-bc5257aa-634d-11e7-94c9-21684a58b5c2.gif) <br />
-> Pn is the probability of not having stem-loop or hairpin structure for a crRNA sequence <br />
-> Pn-base is the probability of a base not binding to any other bases on the crRNA <br />
-<br />
-
-#### *crRNA Secondary Structure Score Algorithm:*
->![codecogseqn 5](https://user-images.githubusercontent.com/29665985/27974015-22e0a7f2-632a-11e7-87c1-024d5cd66d6d.gif) <br />
->![codecogseqn 6](https://user-images.githubusercontent.com/29665985/27974172-d6fd853e-632a-11e7-9f94-3589de98c04e.gif) <br />
->![codecogseqn 7](https://user-images.githubusercontent.com/29665985/27974339-96679c8e-632b-11e7-8ed9-605a06209def.gif) <br />
-> P is the weighted probability score <br />
-> Kw is the weight power <br />
-> P-target is the target maximum probability score <br />
-> P-n-max is the maximum value of all unweighted proabilities <br />
-<br />
-
-#### *Pre-gRNA Secondary Structure Score Algorithm:*
->![codecogseqn 8](https://user-images.githubusercontent.com/29665985/27974631-d52888b0-632c-11e7-8451-7e7b6113c25e.gif) <br />
->![codecogseqn 9](https://user-images.githubusercontent.com/29665985/27974680-02468284-632d-11e7-9d94-8143f5e1edf3.gif) <br />
->![codecogseqn 10](https://user-images.githubusercontent.com/29665985/27974788-797d4fa4-632d-11e7-8675-2064888dd0f0.gif) <br />
->![codecogseqn 11](https://user-images.githubusercontent.com/29665985/27974867-cd033328-632d-11e7-88f2-4202404c9285.gif) <br />
-> P is the weighted probability score <br />
-> c is the root limitation factor constant <br />
-> m-p is the pre-set root constant <br />
-<br />
-
-
-
 
 <br />
 <br />
