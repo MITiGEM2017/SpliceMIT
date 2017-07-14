@@ -46,7 +46,7 @@
 <br />
 
 #### *RBP Interference Score Algorithm:*
->![codecogseqn 14](https://user-images.githubusercontent.com/29665985/27987285-1667b48e-63d9-11e7-9d3b-7e37eabf201a.gif) <br />
+>![codecogseqn 15](https://user-images.githubusercontent.com/29665985/28218617-13607872-6887-11e7-9f07-7f06e11b66c5.gif)<br />
 >![codecogseqn 3](https://user-images.githubusercontent.com/29665985/27973208-3d452120-6327-11e7-825c-c63ecd6dc7d7.gif) <br />
 > a is the weight value; <br />
 > Kd is the dissociation constant for the RBP;<br /> 
