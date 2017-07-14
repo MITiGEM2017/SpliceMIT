@@ -48,9 +48,7 @@
 #### *RBP Interference Score Algorithm:*
 >![codecogseqn 14](https://user-images.githubusercontent.com/29665985/27987285-1667b48e-63d9-11e7-9d3b-7e37eabf201a.gif) <br />
 >![codecogseqn 3](https://user-images.githubusercontent.com/29665985/27973208-3d452120-6327-11e7-825c-c63ecd6dc7d7.gif) <br />
->![codecogseqn 4](https://user-images.githubusercontent.com/29665985/27973317-a481661e-6327-11e7-81e4-85f5d02110d5.gif) <br />
 > a is the weight value; <br />
-> k is the weight-power constant; <br /> 
 > Kd is the dissociation constant for the RBP;<br /> 
 > Lb is the length of binding; <br />
 > Lm is the length of RBP-binding motif; <br />
