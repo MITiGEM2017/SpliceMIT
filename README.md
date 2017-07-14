@@ -28,12 +28,9 @@
 <br />
 
 #### *Variables you PROBABLY want to change*:<br />
->1.	gRNA_length <br />
->2.	tracrRNA_seq <br />
->3.	upstream_exon <br />
->4.	downstream_exon <br />
->5.	direct_repeat_sequence <br />
->6.	(All weight values) <br />
+>1.	tracrRNA_seq <br />
+>2.	direct_repeat_sequence <br />
+>3.	(All weight values) <br />
 <br />
 
 #### *Factors that taken into account:* <br />
