@@ -1,5 +1,5 @@
 ![9ec81688-4d89-40c1-b547-5c9810963752](https://user-images.githubusercontent.com/29665985/27970945-d206ef36-631e-11e7-97a0-36deb037e9af.png)
-# SpliceMIT - Splice Modelling (Intronic) Technology
+# SpliceMIT 2.0 - Splice Modelling (Intronic) Technology 2.0
 >### SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in an RNA splicing setting.<br />
 >### example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
 >### Language: Python <br />
