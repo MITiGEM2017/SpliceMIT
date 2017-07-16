@@ -1,0 +1,26 @@
+Secondary structure score:   0.08049238515946537
+Pre-crRNA secondary structure score:   0.058265438641853004
+RBP intereference score:   65573770.49180461
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.15317728884180634
+Pre-crRNA secondary structure score:   0.16740423934367485
+RBP intereference score:   36295657.17572758
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.23909752515257082
+Pre-crRNA secondary structure score:   0.25483264912670933
+RBP intereference score:   39804429.10555227
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.0996479716422664
+Pre-crRNA secondary structure score:   0.030821502044816675
+RBP intereference score:   19902214.552776977
+GC Content penalty score:   0
+Off target penalty score:   10
