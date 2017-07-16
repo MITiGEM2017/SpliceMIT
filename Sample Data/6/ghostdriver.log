@@ -1,0 +1,42 @@
+[INFO  - 2017-07-16T02:13:31.977Z] GhostDriver - Main - running on port 56447
+[INFO  - 2017-07-16T02:13:33.249Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-16T02:13:33.249Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.customHeaders:  - {}
+[INFO  - 2017-07-16T02:13:33.249Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-16T02:13:33.249Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8
+[INFO  - 2017-07-16T02:13:42.555Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-16T02:13:42.555Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.customHeaders:  - {}
+[ERROR - 2017-07-16T02:13:48.177Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.onError - msg: TypeError: null is not an object (evaluating 'motif.checked = true')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:48.177Z] Session [5e2e7fc0-69cc-11e7-86d1-0bce4351a0b8] - page.onError - stack:
+  changeCheckHuman (http://rbpmap.technion.ac.il/RBPmap_motif_selection.html:75)
+  onclick (http://rbpmap.technion.ac.il/RBPmap_motif_selection.html:206)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:49.791Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171229735
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:50.806Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171230753
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:51.744Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171231688
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:52.682Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171232625
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:53.619Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171233563
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-16T02:13:54.532Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1500171234491
+
+  phantomjs://platform/console++.js:263 in error

@@ -1,0 +1,56 @@
+Homo sapiens partial MEN1 gene, intron 4
+https://www.ncbi.nlm.nih.gov/nuccore/AJ132595.1
+LOCUS       AJ132595                 373 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Homo sapiens partial MEN1 gene, intron 4.
+ACCESSION   AJ132595
+VERSION     AJ132595.1
+KEYWORDS    MEN1 gene; menin; multiple endocrine neoplasia type 1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Engelbach,M., Forst,T., Hankeln,T., Tratzky,M., Heerdt,S.,
+            Pfutzner,A., Kann,P., Kunt,T., Schneider,S., Schmidt,E.R. and
+            Beyer,J.
+  TITLE     Germline mutations in the MEN1 gene: creation of a new splice
+            acceptor site and insertion of 7 intron nucleotides into the mRNA
+  JOURNAL   Int. J. Mol. Med. 4 (5), 483-485 (1999)
+   PUBMED   10534569
+REFERENCE   2  (bases 1 to 373)
+  AUTHORS   Engelbach,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Engelbach M., Department of Internal
+            Medicine and Endocrinology, University Hospital of Mainz,
+            Langenbeckstr.1, Mainz, D-55101 Mainz, GERMANY
+COMMENT     Related sequence: U93237.
+FEATURES             Location/Qualifiers
+     source          1..373
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="patient 301"
+                     /db_xref="taxon:9606"
+                     /chromosome="11q13"
+                     /cell_type="peripheral blood lymphocytes"
+     gene            <1..>373
+                     /gene="MEN1"
+     intron          <1..>373
+                     /gene="MEN1"
+                     /number=4
+     variation       324
+                     /gene="MEN1"
+                     /note="presence of 't' nucleotide creates abberant
+                     acceptor splice site"
+                     /phenotype="multiple endocrine neoplasia type 1"
+                     /replace="g"
+ORIGIN      
+        1 gtgagggctg agccaatggg gcaggactgg gctaggccag acttgacttg ctgtgggacc
+       61 ctgggcaggg gcactttccc ttcctgagct tcagcttccc ctcctggaaa aatgggttag
+      121 taattcctgg cctggccttt cccagggctc ttgggagagt agaattgaga tgtgaaattg
+      181 ctttgactcc attaaagggc tggtcccaga attttggccc ttccacatgg tgggtggtcc
+      241 ctgttggttc tgacccccac ctctgcccga taggctaagg acccgttctc ctccctgttc
+      301 cgtggctcat aactctctcc ttctgctcct agaagctgct ctggctgctc tatgacctgg
+      361 gacatctgga aag
+
+The MEN1 tumor predisposition syndrome is caused by mutations in the MEN1 gene on human chromosome 11q13. We screened MEN1 gene exons 1-10 and flanking intron sequences from four different MEN1 families for mutations. In three families, heterozygous germline mutations within the exons were found, two of these representing novel mutations. In another family, all clinically affected members were heterozygous for a point mutation Gright curved arrow A within intron 4. Sequence analysis of cDNA from lymphocytes of the affected patients revealed that the intron mutation created a new acceptor splice site, leading to the inclusion of 7 bp of intronic sequence into the mRNA. The resulting frameshift generates a premature stop in codon 271. Intron borders should thus be screened for mutations in MEN1 diagnostics and cDNA sequence analysis is helpful in identifying pathophysiological consequences of intron mutations.
