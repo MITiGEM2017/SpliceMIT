@@ -1,0 +1,40 @@
+Homo sapiens gene for osteonidogen, intron 21
+https://www.ncbi.nlm.nih.gov/nuccore/AB009820.1
+LOCUS       AB009820                 240 bp    DNA     linear   PRI 13-SEP-2008
+DEFINITION  Homo sapiens gene for osteonidogen, intron 21.
+ACCESSION   AB009820
+VERSION     AB009820.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Ohno,I., Okubo,K. and Matsubara,K.
+  TITLE     Human osteonidogen gene: intron-exon junctions and chromosomal
+            localization
+  JOURNAL   Published Only in Database (1998)
+REFERENCE   2  (bases 1 to 240)
+  AUTHORS   Ohno,I., Okubo,K. and Matsubara,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-1997) Contact:Ikko Ohno Institute for Molecular
+            and Cellular Biology, Osaka University, Molecular Genetics; 1-3
+            Yamada-oka, Suita, Osaka 565, Japan
+FEATURES             Location/Qualifiers
+     source          1..240
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /map="14q21-q22"
+                     /clone_lib="Lambda FIX II STRATAGENE"
+     intron          1..240
+                     /number=21
+ORIGIN      
+        1 gtaaaaagta tgctttagga tgctccttta aattagcagg gtagagaagg gatatatatg
+       61 gtatttgatt acccctgctg cctgtgacac tgccaccatt gccttcttcc tgccctgagg
+      121 gccagtcttt actaccttaa atctacctag tttatacaca aaatgcaaag acttgctgtt
+      181 gcaacttggt tacaatatac tcacccacca ccctgtccca cccctgctct tctctcacag
+
+Nidogen-2, also known as osteonidogen, is a basal lamina protein of the nidogen family. It was the second nidogen to be described after nidogen-1 (entactin). Both play key roles during late embryonic development.[3] In humans it is encoded by the NID2 gene.
