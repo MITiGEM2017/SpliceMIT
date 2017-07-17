@@ -1,0 +1,45 @@
+Homo sapiens lymphocyte antigen (HLA-B) gene, HLA-B*3501 allele, intron sequence
+https://www.ncbi.nlm.nih.gov/nuccore/L57505.1
+LOCUS       HUMMHB35B                245 bp    DNA     linear   PRI 13-NOV-2001
+DEFINITION  Homo sapiens lymphocyte antigen (HLA-B) gene, HLA-B*3501 allele,
+            intron sequence.
+ACCESSION   L57505
+VERSION     L57505.1
+KEYWORDS    HLA-B allele; HLA-B*3501 gene; lymphocyte antigen; major
+            histocompatibility complex.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 245)
+  AUTHORS   Vargas-Alarcon,G., Martinez-Laso,J., Granados,J., Alvarez,M.,
+            Diaz-Campos,N., Gomez-Casado,E., Alcocer-Varela,J. and
+            Arnaiz-Villena,A.
+  TITLE     Importance of intron sequences in the generation of new HLA-B
+            alleles
+  JOURNAL   Unpublished
+FEATURES             Location/Qualifiers
+     source          1..245
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p"
+                     /sex="male"
+                     /cell_type="leukocyte"
+                     /tissue_type="blood"
+     gene            1..245
+                     /gene="HLA-B"
+                     /allele="HLA-B*3501"
+     intron          1..245
+                     /gene="HLA-B"
+                     /allele="HLA-B*3501"
+                     /note="putative"
+ORIGIN      
+        1 gtgagtgacc ccggcccggg gcgcaggtca cgactcccca tcccccacgt acggcccggg
+       61 tcgccccgag tctccgggtc cgagatccgc ctccctgagg ccgcgggacc cgcccagacc
+      121 ctcgaccggc gagagcccca ggcgcgttta cccggtttca ttttcagttg aggccaaaat
+      181 ccccgcgggt tggtcggggc ggggcggggc tcgggggacg gggctgaccg cggggccggg
+      241 gccag
+
