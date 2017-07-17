@@ -1,0 +1,45 @@
+Homo sapiens ZFX gene, intron
+https://www.ncbi.nlm.nih.gov/nuccore/DQ520719.1
+LOCUS       DQ520719                 529 bp    DNA     linear   PRI 23-OCT-2006
+DEFINITION  Homo sapiens ZFX gene, intron.
+ACCESSION   DQ520719
+VERSION     DQ520719.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 529)
+  AUTHORS   Goetting-Minesky,M.P. and Makova,K.D.
+  TITLE     Mammalian male mutation bias: impacts of generation time and
+            regional variation in substitution rates
+  JOURNAL   J. Mol. Evol. 63 (4), 537-544 (2006)
+   PUBMED   16955237
+REFERENCE   2  (bases 1 to 529)
+  AUTHORS   Goetting-Minesky,P. and Makova,K.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2006) Biology, The Pennsylvania State University,
+            208 Mueller Laboratory, University Park, PA 16802, USA
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+     gene            <1..>529
+                     /gene="ZFX"
+     intron          1..529
+                     /gene="ZFX"
+                     /note="next to last intron"
+ORIGIN      
+        1 gtaagttgcc cagcagctct tagcattgaa gaagttggtt cttaaacatg aatccatgat
+       61 tgaaaaatgg tttctgtggt cttaggtttc agaagtctga aataccagta tcctgtaagg
+      121 attatttgaa ttgaattaga gtataaagtc tactttttgt ctttattttt aacaggaatt
+      181 tccttcatgt gtatattatg tagaaggaag tactgcaaga agtacacagg ctttcaggct
+      241 gaaagttttc atcttgatta tgtttggccc atgacttttt cattttggga gacaacaagg
+      301 gagtccatgg cgcaaaaatg ctgacatgtg ttttttagct ttggaagcta ggcgtttcct
+      361 acggtctcgc gataataaat gtgctcataa aacccatgac ctagaatggg gaatttctgt
+      421 cattcatgag tatcatggct tacttttcgt tgttgtagtt aatgaagaat tcctaattct
+      481 ttaaaattta taatactgta taattttgtt ttttaataca cattgttag
+//
