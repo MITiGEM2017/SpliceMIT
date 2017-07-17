@@ -1,0 +1,49 @@
+Homo sapiens CBS gene, intron sequence
+https://www.ncbi.nlm.nih.gov/nuccore/AJ132760.1
+LOCUS       AJ132760                 580 bp    DNA     linear   PRI 10-FEB-1999
+DEFINITION  Homo sapiens CBS gene, intron sequence.
+ACCESSION   AJ132760
+VERSION     AJ132760.1
+KEYWORDS    CBS gene; cystathionine beta-synthase; intron.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Linnebank,M. and Koch,H.G.
+  TITLE     Polymorphic markers of the human cystathionine beta-synthase gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 580)
+  AUTHORS   Koch,H.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-1999) Koch H.G., Klinik und Poliklinik fuer
+            Kinderheilkunde, Univ. Muenster, Albert-Schweitzer-Str. 33, 48149
+            Muenster, GERMANY
+FEATURES             Location/Qualifiers
+     source          1..580
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="q22.3"
+     gene            1..580
+                     /gene="CBS gene"
+     intron          1..580
+                     /gene="CBS gene"
+ORIGIN      
+        1 gtcagtctca gcccctgctc agagctcagt cctgggttct gtctgcccag ctccaccccg
+       61 tcagtgtcac tggacagggc agccatgcag accctgcagc tgggctgata ggcccgcctg
+      121 ggccgcctca tacagacgtt cagggcattg gaggcccctt gccggtccct gagcagcctg
+      181 gggcagggct gccgtgctca ctccaggccc tcagacctca gcccacccac cctttgtgtg
+      241 caggctgtcc tgggcccacc tggaggtcag gggagagatg ccccgaggac atgtctgaca
+      301 gcagaaagcc ttggcacaca tgcccagtga ccactgagag ccccacgtcg cggaaacctg
+      361 acggctggtc acccttgacc ctggctgaac gggtccaagg actcttggtt tctttctccc
+      421 caccagggcc cagactggtt cctgccgcgt gtaggctcgt ggcagaggac ttccatgtgt
+      481 ggccagagag cgctcctccc tggggcagct gagcgtgtgc cccaccgtcc tgggaggggt
+      541 gaggtatgag cgctgacccc tgcctgcccc cgtcccacag
+
+Cystathionine-ß-synthase, also known as CBS, is an enzyme (EC 4.2.1.22) that in humans is encoded by the CBS gene. It catalyzes the first step of the transsulfuration pathway, from homocysteine to cystathionine:[3]
+L-serine + L-homocysteine --»  L-cystathionine + H2O
+CBS uses the cofactor pyridoxal-phosphate (PLP) and can be allosterically regulated by effectors such as the ubiquitous cofactor S-adenosyl-L-methionine (adoMet). This enzyme belongs to the family of lyases, to be specific, the hydro-lyases, which cleave carbon-oxygen bonds.
+CBS is a multidomain enzyme composed of an N-terminal enzymatic domain and two CBS domains. The CBS gene is the most common locus for mutations associated with homocystinuria.[4]
