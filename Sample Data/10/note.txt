@@ -1,0 +1,59 @@
+Homo sapiens cytochrome b light chain (CYBA) gene, intron 4
+https://www.ncbi.nlm.nih.gov/nuccore/AY684147.1
+LOCUS       AY684147                 557 bp    DNA     linear   PRI 04-SEP-2004
+DEFINITION  Homo sapiens cytochrome b light chain (CYBA) gene, intron 4.
+ACCESSION   AY684147
+VERSION     AY684147.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 557)
+  AUTHORS   Stasia,M.J., Bordigoni,P., Martel,C. and Morel,F.
+  TITLE     A novel and unusual case of chronic granulomatous disease in a
+            child with a homozygous 36-bp deletion in the CYBA gene (A22(0))
+            leading to the activation of a cryptic splice site in intron 4
+  JOURNAL   Hum. Genet. 110 (5), 444-450 (2002)
+   PUBMED   12073015
+REFERENCE   2  (bases 1 to 557)
+  AUTHORS   Stasia,M.J., Bordigoni,P. and Morel,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2004) GREPI EA 2938, Lab Enzymologie/DBPC, CHU de
+            Grenoble, Grenoble Cedex 09, BP 217 38043, France
+FEATURES             Location/Qualifiers
+     source          1..557
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="healthy donor"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16q24"
+                     /cell_type="mononuclear cells"
+     gene            <1..>557
+                     /gene="CYBA"
+                     /note="cytochrome b light chain"
+     intron          1..557
+                     /gene="CYBA"
+                     /number=4
+     variation       543..>557
+                     /gene="CYBA"
+                     /note="36bp deletion between intron 4 and exon 5 leads to
+                     p22phox deficiency of NADPH oxidase complex in patient
+                     with autosomal recessive chronic granulomatous disease"
+                     /replace=""
+ORIGIN      
+        1 gtgagtcccc gtcccgcacc ccctctaggg ctcaggaggg cttggagccg accctcccca
+       61 ctgtcccacc ggccgggctg cctggacagg agccaccccc acttacctca gtgtttttcc
+      121 aaacaaaaat tcgggtccct ggctctggca gggcctgtgt ctgctgtcta gtgtgcagga
+      181 tttgtaagga tccactccaa atccgaggag ctccgatccg tcgccagggt ctggggtcag
+      241 catgcactgc tggggggtct tgcctgggct tcctggtagg gtggagggtt ccgtgctgtg
+      301 tgtctgctgg ttactgccgg ctgaggccag gacacccaca cgtggctgct tcctccgagc
+      361 aagtgcacca gagccgctag tgtccacatc aaggctgaga acacccagga ccgaaacaag
+      421 ccccggtccg cgcacgtccc ctgggtctgc agtctgcctt gtcctgagac tttgtggcct
+      481 tggcccccag acctggggct ccgttcccct ttctgagtgc ccttctgtgt ccctgcctct
+      541 cacccgctgt cccccag
+//
+
+p22phox Protein, also known as the human neutrophil cytochrome b light chain (CYBA), is an essential component of the membrane-associated enzyme phagocyte NADPH-oxidase[1] This enzyme uses NADH or NADPH as the electron donor for the one electron reduction of oxygen to produce superoxide anion, a reactive oxygen species (ROS),[2] and a functionally important step for the antimicrobial activity of phagocytic cells.[3] p22phox is also expressed in many other human cells such as endothelial and vascular smooth muscle cells, including those within the coronary arteries.[4] Specific polymorphisms of the CYBA gene have been identified that are associated with a decreased risk of coronary artery disease (CAD).[4]
