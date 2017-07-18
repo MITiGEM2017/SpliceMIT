@@ -1,0 +1,42 @@
+Homo sapiens methylenetetrahydrofolate reductase (MTHFR) gene, intron 7
+https://www.ncbi.nlm.nih.gov/nuccore/AF080506.1
+LOCUS       AF080506                 268 bp    DNA     linear   PRI 15-AUG-1999
+DEFINITION  Homo sapiens methylenetetrahydrofolate reductase (MTHFR) gene,
+            intron 7.
+ACCESSION   AF080506
+VERSION     AF080506.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 268)
+  AUTHORS   Yi,P., Pogribny,I.P. and James,S.J.
+  TITLE     Intron sequence of hmthfr
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 268)
+  AUTHORS   Yi,P., Pogribny,I.P. and James,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-1998) Biochemical Toxicology, National Center for
+            Toxicological Research, 3900 NCTR Road, Jefferson, AR 72079, USA
+FEATURES             Location/Qualifiers
+     source          1..268
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.3"
+     gene            <1..>268
+                     /gene="MTHFR"
+                     /note="methylenetetrahydrofolate reductase"
+     intron          1..268
+                     /gene="MTHFR"
+                     /number=7
+ORIGIN      
+        1 gtgagtgatg ctggagtggg gaccctggtt catcccctgc ccctggcctg accccagctg
+       61 caggccaggc tgcggggctg tgacttcccc atcctgtgcc ctcccctcca tgctgtggac
+      121 atggcaaagg gagaagggta agttgggaga cctccacctg gaagggctta gggaggcaaa
+      181 gacaggctgg gtctttgttg ggggccgtga gagggactca gggtgccaaa cctgatggtc
+      241 gccccagcca gctcaccgtc tctcccag
+//
