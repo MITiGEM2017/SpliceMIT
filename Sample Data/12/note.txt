@@ -1,0 +1,44 @@
+Homo sapiens DNA for G-CSF receptor, intron 15
+https://www.ncbi.nlm.nih.gov/nuccore/AB006905.1
+LOCUS       AB006905                 246 bp    DNA     linear   PRI 14-APR-2000
+DEFINITION  Homo sapiens DNA for G-CSF receptor, intron 15.
+ACCESSION   AB006905
+VERSION     AB006905.1
+KEYWORDS    G-CSF receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Okamura,S., Yokoyama,T., Kondo,S., Asano,Y., Shibata,S.,
+            Nakashima,H. and Niho,Y.
+  TITLE     Human G-CSF receptor gene intron 15
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 246)
+  AUTHORS   Okamura,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-1997) Seiichi Okamura, Kyushu University, First
+            Dept of Internal Medicine, Faculty of Medicine; 3-1-1 Maidashi,
+            Higashi-ku, Fukuoka, Fukuoka 812-82, Japan
+            (E-mail:okamuras@intmed1.med.kyushu-u.ac.jp, Tel:092-642-5230,
+            Fax:092-642-5247)
+FEATURES             Location/Qualifiers
+     source          1..246
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="bone marrow"
+     gene            1..246
+                     /gene="G-CSF receptor"
+     intron          1..246
+                     /gene="G-CSF receptor"
+                     /number=15
+ORIGIN      
+        1 gtgagtccct ttgagagacc tgagatcctg cttcccccac ccacagggaa cctcaggtcc
+       61 agatgggccc atctaagtcc cttccagcct tcccaaactt tggggcccat gtctgagagt
+      121 cccagccccc agcttcttct ctctgcacta agggcagctg cacctcttca ggtggggtgg
+      181 gtgggacaaa aaatggaaag atcggagggt gtgtctgact cagcctccac ctgccccctt
+      241 ctccag
+//
+
