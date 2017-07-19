@@ -1,0 +1,54 @@
+Human complement component C6 mRNA, intron N
+https://www.ncbi.nlm.nih.gov/nuccore/J05063.1
+LOCUS       HUMC6AI                  891 bp    mRNA    linear   PRI 31-OCT-1994
+DEFINITION  Human complement component C6 mRNA, intron N.
+ACCESSION   J05063
+VERSION     J05063.1
+KEYWORDS    complement component C6.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 891)
+  AUTHORS   Haefliger,J.A., Tschopp,J., Vial,N. and Jenne,D.E.
+  TITLE     Complete primary structure and functional characterization of the
+            sixth component of the human complement system. Identification of
+            the C5b-binding domain in complement C6
+  JOURNAL   J. Biol. Chem. 264 (30), 18041-18051 (1989)
+   PUBMED   2808363
+COMMENT     Original source text: Human (adult) liver cDNA to mRNA, clone 11.
+            Draft entry and computer readable copy of sequence [1] kindly
+            provided by D.E.Jenne, 12-JUL-1989.
+            The sequence of J05063 is an intron found in clone 11.  It is
+            situated between base pairs 1839 and 1840 of the protein coding
+            sequence of GenBank entry J05064.
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /map="5p14-p12"
+     gene            1..891
+                     /gene="C6"
+     intron          1..891
+                     /gene="C6"
+                     /note="complement component C6, intron N.; G00-119-045"
+ORIGIN      
+        1 gtaagtatca ggaatctatt gtgaggtaga taagttttcc cctccaaaga gtattctaag
+       61 ttggtcaatt aaaaagaaac aaaacttcta ttagcaacct ccaccttgta caggctcaga
+      121 gggaagataa acctgcaaaa agtgtgagtc tcagctgtaa cctaccaact atgtgagctt
+      181 gggaaagtta cccagcttcc ctatgcctca atctgttcat ccataaaatg aggataacac
+      241 cagtatctat ctaaggaata tgaatatatt atatgcgtat ttatatatca agaatacata
+      301 tacaatgctc ataacataaa aaatcaaaca taacatcaaa taaaatatat gattctgata
+      361 ttataagcct cttatgtatt gtaatataga aggatggctt tgtaataaaa aataaattaa
+      421 gccacaacca aagttttcat acaggactaa gtagtaacat agttacctca aatcctcctt
+      481 agaaacaggg taaggcatgg gagtaagaat gtatactact acttccttta aaagtgtaat
+      541 ttaatatgca ttctgttaag aagatgttta tatttataca catatgagtg cacattttta
+      601 aaaggcctcc aaagccaaga atacagaggt ttcttaacag ttgaaaataa ttcataatga
+      661 ttgccatttg ttgccatttt atttaggctt atgggaacaa agtctaaaag gaaatcaggc
+      721 aatgtgtcag gccccttgca caggtaattt cttttaatcc ttagaagaac cctatcatat
+      781 cccacaaagg aagttactga gctaaaaagt gaggaaacca ggttggcctc acttccaaac
+      841 ccaaattcag ctgcaccatg atccatggga gtgagtcttc ctttgttcca g
+//
+gtaagtatcaggaatctattgtgaggtagataagttttcccctccaaagagtattctaagttggtcaattaaaaagaaacaaaacttctattagcaacctccaccttgtacaggctcagagggaagataaacctgcaaaaagtgtgagtctcagctgtaacctaccaactatgtgagcttgggaaagttacccagcttccctatgcctcaatctgttcatccataaaatgaggataacaccagtatctatctaaggaatatgaatatattatatgcgtatttatatatcaagaatacatatacaatgctcataacataaaaaatcaaacataacatcaaataaaatatatgattctgatattataagcctcttatgtattgtaatatagaaggatggctttgtaataaaaaataaattaagccacaaccaaagttttcatacaggactaagtagtaacatagttacctcaaatcctccttagaaacagggtaaggcatgggagtaagaatgtatactactacttcctttaaaagtgtaatttaatatgcattctgttaagaagatgtttatatttatacacatatgagtgcacatttttaaaaggcctccaaagccaagaatacagaggtttcttaacagttgaaaataattcataatgattgccatttgttgccattttatttaggcttatgggaacaaagtctaaaaggaaatcaggcaatgtgtcaggccccttgcacaggtaatttcttttaatccttagaagaaccctatcatatcccacaaaggaagttactgagctaaaaagtgaggaaaccaggttggcctcacttccaaacccaaattcagctgcaccatgatccatgggagtgagtcttcctttgttccag
