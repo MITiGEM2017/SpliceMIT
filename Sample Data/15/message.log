@@ -1,0 +1,70 @@
+Your input upstream exon sequence is CCTTCATCAACCACACCCAG
+Your input downstream exon sequence is GGCTTCACCTGGGAAAGAGT
+The number of guide RNA sequences is  550
+
+
+Extract secondary structure data of crRNA from the csv file in progress:
+
+
+RNA binding protein site analysis in progress ------
+This process should take less than 1 minute.
+Process finished.
+The RBP data scrapping takes  39 second(s) to finish. 
+
+
+Extract RBP binding affinity data of crRNA from the csv file in progress:
+
+
+RBP-score calculation in progress:
+
+
+The pre-crRNA secondary structure score calculation in progress:
+
+
+Analysis of GC content is in progress:
+
+
+Off target score calculation in progress:
+Final filter of the gRNAs in process: 
+
+
+Secondary structure score:   0.02998340361427436
+Pre-crRNA secondary structure score:   0.037811247505723566
+RBP intereference score:   23969129.98609151
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.04531150228492475
+Pre-crRNA secondary structure score:   0.06392366994818936
+RBP intereference score:   20460358.05626699
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.06210832505363922
+Pre-crRNA secondary structure score:   0.07662493520088426
+RBP intereference score:   38808981.90947802
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.0538521146825644
+Pre-crRNA secondary structure score:   0.08496368460958752
+RBP intereference score:   44691334.85065436
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.04554897780377012
+Pre-crRNA secondary structure score:   0.05653448719822266
+RBP intereference score:   30113329.735565074
+GC Content penalty score:   0
+Off target penalty score:   10
+
+
+Secondary structure score:   0.02861567264886475
+Pre-crRNA secondary structure score:   0.01821215554203606
+RBP intereference score:   30113329.735565033
+GC Content penalty score:   0
+Off target penalty score:   10

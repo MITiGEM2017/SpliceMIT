@@ -1,0 +1,50 @@
+Homo sapiens DBY gene, intron 7
+https://www.ncbi.nlm.nih.gov/nuccore/DQ520702.1
+LOCUS       DQ520702                 710 bp    DNA     linear   PRI 23-OCT-2006
+DEFINITION  Homo sapiens DBY gene, intron 7.
+ACCESSION   DQ520702
+VERSION     DQ520702.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 710)
+  AUTHORS   Goetting-Minesky,M.P. and Makova,K.D.
+  TITLE     Mammalian male mutation bias: impacts of generation time and
+            regional variation in substitution rates
+  JOURNAL   J. Mol. Evol. 63 (4), 537-544 (2006)
+   PUBMED   16955237
+REFERENCE   2  (bases 1 to 710)
+  AUTHORS   Goetting-Minesky,P. and Makova,K.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2006) Biology, The Pennsylvania State University,
+            208 Mueller Laboratory, University Park, PA 16802, USA
+FEATURES             Location/Qualifiers
+     source          1..710
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+     gene            <1..>710
+                     /gene="DBY"
+     intron          1..710
+                     /gene="DBY"
+                     /number=7
+ORIGIN      
+        1 gtaagcttac tcaatacaaa gtgaaagtta agaatacctg atcagactta ctttaaaagt
+       61 agtatgttct gaaggggatg tctgaatcct gtgtttagca tttgaggtag gtaaagatta
+      121 gctgaggatg tgtctttttg tgtatacctt tggatccttg ggatgaaact aatattttta
+      181 tctggacatc ttgaggaagc ttatggcaaa atcttcttta agaaatagaa ctgcgtattt
+      241 tacagttaac tccacgggag ttagcaaact gcagccttta ggtcaaacct agctcttgtt
+      301 tatttttcaa tagctgtatt gaaatatagc catacccatt ggttacgtct atagctgtag
+      361 aggttagcca gagatgtggc agagagactg gcctgcaaga gccatgtggc tctttacaga
+      421 aagttcactg acccctgttt taccttctaa cagtatgtag tgattacaaa gaaatgttga
+      481 actgaaagtt gatgccactt ttcagaaaaa tggttgtgtt ttgtacaaat tgaaatacat
+      541 tgtttaaaaa taaagcacag tactcacttt aggtttgcca tataaattta ctgtaacttc
+      601 ctagaaaatt ggaaataaag taagaaaaat tttcttacaa ttcaagggca tttagaacac
+      661 tttgtcatct gttaatattc agaaatgata agccagtgtt ttgttttcag
+//
+
+gtaagcttactcaatacaaagtgaaagttaagaatacctgatcagacttactttaaaagtagtatgttctgaaggggatgtctgaatcctgtgtttagcatttgaggtaggtaaagattagctgaggatgtgtctttttgtgtatacctttggatccttgggatgaaactaatatttttatctggacatcttgaggaagcttatggcaaaatcttctttaagaaatagaactgcgtattttacagttaactccacgggagttagcaaactgcagcctttaggtcaaacctagctcttgtttatttttcaatagctgtattgaaatatagccatacccattggttacgtctatagctgtagaggttagccagagatgtggcagagagactggcctgcaagagccatgtggctctttacagaaagttcactgacccctgttttaccttctaacagtatgtagtgattacaaagaaatgttgaactgaaagttgatgccacttttcagaaaaatggttgtgttttgtacaaattgaaatacattgtttaaaaataaagcacagtactcactttaggtttgccatataaatttactgtaacttcctagaaaattggaaataaagtaagaaaaattttcttacaattcaagggcatttagaacactttgtcatctgttaatattcagaaatgataagccagtgttttgttttcag
