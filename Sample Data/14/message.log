@@ -1,0 +1,28 @@
+Your input upstream exon sequence is CCTTCATCAACCACACCCAG
+Your input downstream exon sequence is GGCTTCACCTGGGAAAGAGT
+The number of guide RNA sequences is  725
+
+
+Extract secondary structure data of crRNA from the csv file in progress:
+
+
+RNA binding protein site analysis in progress ------
+This process should take less than 1 minute.
+Process finished.
+The RBP data scrapping takes  45 second(s) to finish. 
+
+
+Extract RBP binding affinity data of crRNA from the csv file in progress:
+
+
+RBP-score calculation in progress:
+
+
+The pre-crRNA secondary structure score calculation in progress:
+
+
+Analysis of GC content is in progress:
+
+
+Off target score calculation in progress:
+Final filter of the gRNAs in process: 
