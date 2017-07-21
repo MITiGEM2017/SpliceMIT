@@ -1,5 +1,6 @@
 ![9ec81688-4d89-40c1-b547-5c9810963752](https://user-images.githubusercontent.com/29665985/27970945-d206ef36-631e-11e7-97a0-36deb037e9af.png)
-# SpliceMIT 2.0 - Splice Modelling (Intronic) Technology 2.0
+# SpliceMIT 2.0 - Splice Modelling (Intronic) Technology 3.0 
+## What's new: Instead of running off-target searching locally, SpliceMIT 3.0 applies NCBI Blast to do the job in order to save time.
 >### SpliceMIT is a tool to analyze and produce the most effective gRNA sequences in an RNA splicing setting based on user inputs of an intron sequence, upstream and downstream 20 nt sequence, gRNA size, and tracrRNA sequence. It sets up cut-off values to filter the gRNAs and eventually provide a list of effective gRNA sequences. <br />
 >### example RBPs: dCas13a, MS2, L7Ae, RCas9 <br />
 >### Language: Python <br />
