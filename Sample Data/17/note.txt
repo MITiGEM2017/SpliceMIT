@@ -1,0 +1,56 @@
+Homo sapiens lipe gene intron 5
+https://www.ncbi.nlm.nih.gov/nuccore/AJ006565.1
+LOCUS       AJ006565                 785 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Homo sapiens lipe gene intron 5.
+ACCESSION   AJ006565
+VERSION     AJ006565.1
+KEYWORDS    cholesterol hydrolase; hormone sensitive lipase; lipe gene;
+            triglyceride hydrolase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Talmud,P.J., Palmen,J. and Walker,M.
+  TITLE     Identification of genetic variation in the human hormone sensitive
+            lipase gene and 5'sequences: homology of 5' sequences with mouse
+            promoter and identification of potential regulatory elements
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 785)
+  AUTHORS   Talmud,P.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Talmud P.J., Medicine, University College
+            London, 5 University Street, London WC 1E 6 JJ, ENGLAND
+FEATURES             Location/Qualifiers
+     source          1..785
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="q13.1-13.2"
+                     /cell_type="lymphocyte"
+                     /dev_stage="adults"
+     gene            1..785
+                     /gene="lipe"
+     intron          1..785
+                     /gene="lipe"
+                     /number=5
+ORIGIN      
+        1 gtgagcctca ggcccccaca gccacctgcg cctgctccca tcccacccag cttgctttaa
+       61 gctcctccag cctcagcctc acaccctcta cctttctctc cccccacacc tcccagctcc
+      121 tgctcaccca ggtcctgccc aatcttccac ctcagccact ttatcctctg tccccaactg
+      181 tggcacccag actctccatc tcctccacct ccacttccca cccaccgtcc tgtctccctg
+      241 ggcctctgtc gtccccctct gatagctcca ggccctgctc tcctgtccta ccagcctcct
+      301 ggcccacagt ccagcttctc tgacctccct cttcgaagat caacatcttg ggaggacact
+      361 gaggcacaga gcagagtgtg gccatgcccc agggcacaga gcttgcagcc cagcccctct
+      421 gtactgaccc tgaaccctga ccttccattc ccgccctctg aggcccccct cctgcaacag
+      481 gcctgagctc agctcccctt tcccaccacc tgccctccct gctcccaacc tccagccccg
+      541 acagactttc ccagtgcttc cctgggcctc tccaggtcct gagtcatcct gaccctctgt
+      601 ctaccacatg agcccaaatc tgtgcctcag tctgccagtc tctaaaactg cagtctgcta
+      661 ggccttggag tgccccacac cccaccttgg agagcccagt tctcccagct tgagttcctc
+      721 cctgccctcc tccccaggcc tctgcccctg ccaggttgtc accaaccacc cctctcccaa
+      781 accag
+//
+
+gtgagcctcaggcccccacagccacctgcgcctgctcccatcccacccagcttgctttaagctcctccagcctcagcctcacaccctctacctttctctccccccacacctcccagctcctgctcacccaggtcctgcccaatcttccacctcagccactttatcctctgtccccaactgtggcacccagactctccatctcctccacctccacttcccacccaccgtcctgtctccctgggcctctgtcgtccccctctgatagctccaggccctgctctcctgtcctaccagcctcctggcccacagtccagcttctctgacctccctcttcgaagatcaacatcttgggaggacactgaggcacagagcagagtgtggccatgccccagggcacagagcttgcagcccagcccctctgtactgaccctgaaccctgaccttccattcccgccctctgaggcccccctcctgcaacaggcctgagctcagctcccctttcccaccacctgccctccctgctcccaacctccagccccgacagactttcccagtgcttccctgggcctctccaggtcctgagtcatcctgaccctctgtctaccacatgagcccaaatctgtgcctcagtctgccagtctctaaaactgcagtctgctaggccttggagtgccccacaccccaccttggagagcccagttctcccagcttgagttcctccctgccctcctccccaggcctctgcccctgccaggttgtcaccaaccacccctctcccaaaccag
